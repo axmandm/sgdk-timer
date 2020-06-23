@@ -1,2 +1,1 @@
-# sgdk-timer
-# sgdk-timer
+Displays a timer on screen, counts up once every second.
